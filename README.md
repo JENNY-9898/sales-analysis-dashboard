@@ -147,3 +147,10 @@ This project focuses on analyzing sales data using Microsoft Power BI to deliver
 ---
 # Conclusion
 This sales analysis provides a holistic view of business performance, helping stakeholders make informed decisions. The dashboard highlights areas for growth, product optimization, and customer engagement.
+
+
+---
+# Data Visualization
+
+
+![Screenshot (7)](https://github.com/user-attachments/assets/8e8d36d9-c5fd-4ae5-b308-712702f441ad)

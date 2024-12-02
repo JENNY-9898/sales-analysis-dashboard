@@ -34,6 +34,8 @@ This project focuses on analyzing sales data using Microsoft Power BI to deliver
 1.  Orders Data: Includes order details like sales amount, customer information, and shipment dates.
 2.  Inventory Data: Tracks product-level stock and availability.
 3.  Fulfillment Data: Provides information on shipment timelines and fulfillment costs.
+
+
 ### Fields Included:
 1.  Order Date.
 2.  Gross Sales.
@@ -137,7 +139,7 @@ This project focuses on analyzing sales data using Microsoft Power BI to deliver
 ### Enhance Customer Retention:
 
 1. Create loyalty programs to retain premium customers and upsell complementary products.
-.
+
 
 ### Leverage Forecast Insights:
 

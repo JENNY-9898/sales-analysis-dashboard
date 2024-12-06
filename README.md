@@ -15,7 +15,7 @@ This is my sales analysis report
 
 ---
 # Project Overview
-This project focuses on analyzing sales data using Microsoft Power BI to deliver actionable insights. The dashboard provides a comprehensive view of sales trends, product performance, customer insights, and geographic distribution.
+This project focuses on analyzing sales data using Microsoft Power BI to deliver actionable insights. The dashboard provides a comprehensive view of sales trends, product performance, customer insights, and geographic distribution.[view visuals](https://ibb.co/C1pvCr3)
 
 
 ---
